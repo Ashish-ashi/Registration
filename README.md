@@ -64,5 +64,5 @@ Here are some previews of the application in action:
 
 ### 📥 Clone This Repository
 ```bash
-git clone https://github.com/Ashish-ashi/registration.git
-cd registration
+git clone https://github.com/Ashish-ashi/Registration.git
+cd Registration
