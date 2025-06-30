@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/PHP-8.x-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/MySQL-8.0-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/CRUD-Supported-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
 </p>
 
 ---
